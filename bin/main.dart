@@ -3,7 +3,7 @@ import 'dart:math';
 import 'ds/queue.dart';
 import 'package:test/test.dart';
 
-final int NUMBER_OF_TESTS = 100;
+final int NUMBER_OF_TESTS = 100000;
 
 List<int> generateRandomList() {
   Random random = Random();
